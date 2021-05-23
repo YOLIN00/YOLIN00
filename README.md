@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-### Language & Tools:
+### Language, Technology & Tools:
 
    ![C](https://img.shields.io/badge/C--critical?style=for-the-badge&logo=C&color=A8B9CC&labelColor=21223e)
    ![C++](https://img.shields.io/badge/C++--critical?style=for-the-badge&logo=c%2B%2B&color=00599C&labelColor=)

@@ -19,10 +19,16 @@ Here are some ideas to get you started: -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=glsl&layout=compact&&langs_count=6&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ### Stats Card
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolin00&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- visitor 
+<img src = "https://gpvc.arturio.dev/yolin00">systemfault
+<img src = "https://badges.pufler.dev/visits/yolin00/yolin00">
+<img src = "https://visitor-badge.glitch.me/badge?page_id=yolin00.yolin00">systemfault
+-->
 
-                  ![visitors](https://visitor-badge.glitch.me/badge?page_id=yolin00.yolin00)
 
-[![Visits Badge](https://badges.pufler.dev/visits/yolin00/yolin00)](https://badges.pufler.dev)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=yolin00.yolin00)
+<!-- https://gpvc.arturio.dev/yolin00 -->
+[![Yolin](https://badges.pufler.dev/visits/yolin00/yolin00)](https://badges.pufler.dev)
 <details>
    <summary>More Repos</summary>   
    
